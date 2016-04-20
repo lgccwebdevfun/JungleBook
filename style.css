@@ -1,0 +1,26 @@
+body {
+      color: green;
+      font-size: 14px;
+      }
+
+h1 {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+header h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 15px;
+}
+
+body {
+  background-color: yellow;
+}
+
+li {
+  font-style: italic;
+}
